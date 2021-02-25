@@ -2,9 +2,9 @@
 **Welcome and may the force be with you!**
 
 <div>
-	<img src="https://img.shields.io/badge/-Typescript-273849?style=flat&labelColor=41b883&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/" alt="Typescript"/>&nbsp;
-	<img src="https://img.shields.io/badge/-Luiz Henrique Moreno-273849?style=flat&labelColor=41b883&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lhmoreno/" alt="Linkedin"/>&nbsp;
-	<img src="https://img.shields.io/badge/-lhmorenoti@hotmail.com-273849?style=flat&labelColor=41b883&logo=microsoft-outlook&logoColor=white&link=mailto:lhmorenoti@hotmail.com" alt="Email"/>
+	<img src="https://img.shields.io/badge/-Typescript-273849?style=flat&labelColor=5e2351&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/" alt="Typescript"/>&nbsp;
+	<img src="https://img.shields.io/badge/-Luiz Henrique Moreno-273849?style=flat&labelColor=5e2351&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lhmoreno/" alt="Linkedin"/>&nbsp;
+	<img src="https://img.shields.io/badge/-lhmorenoti@hotmail.com-273849?style=flat&labelColor=5e2351&logo=microsoft-outlook&logoColor=white&link=mailto:lhmorenoti@hotmail.com" alt="Email"/>
 </div>
 
 <br/>
@@ -20,7 +20,7 @@ Never stop loving what you do and you will always be happy.
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lhmoreno&show_icons=true&theme=vue-dark" alt="Stats"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=lhmoreno&show_icons=truek&theme=radical" alt="Stats"/> 
 
 > “In a dark place we find ourselves, and a little more knowledge lights our way.” 
 > – Yoda
