@@ -1,18 +1,11 @@
-# Hi there 👋🏻
+# Olá 👋🏻
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-3272B?style=for-the-badge&logo=linkedin&logoColor=white&color=3272BC)](https://www.linkedin.com/in/lhmoreno/)
-[![Rocketseat Badge](https://img.shields.io/badge/-Rocketseat-3272B?style=for-the-badge&logo=apacherocketmq&logoColor=white&color=3272BC)](https://app.rocketseat.com.br/me/luizmoreno)
+[![Site Badge](https://img.shields.io/badge/-Portfolio-bf9217?style=for-the-badge&color=bf9217)](https://lhmoreno.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-bf9217?style=for-the-badge&logo=linkedin&logoColor=white&color=bf9217)](https://www.linkedin.com/in/lhmoreno/)
+[![Rocketseat Badge](https://img.shields.io/badge/-Rocketseat-bf9217?style=for-the-badge&logo=apacherocketmq&logoColor=white&color=bf9217)](https://app.rocketseat.com.br/me/luizmoreno)
 
-Passionate about creating innovative solutions, I focus my efforts on building WhatsApp chatbots for companies, bringing intelligent solutions with AI.
+Trabalho como desenvolvedor freelancer e atualmente meus principais projetos em produção são chatbots de WhatsApp.
 
-If you are interested in exploring the possibilities of chatbots in this ecosystem, I look forward to exchanging knowledge and collaborating on projects that make the most of this technology.
+Algumas tecnologias que utilizo no meu dia são: Next.js, Node.js, Postgress, Typescript.
 
-"My mission is to develop chatbots that not only automate processes, but also provide immersive and personalized experiences."
-
-<!--
-Apaixonado em criar soluções inovadoras, concentro meus esforços na construção de chatbots de WhatsApp para empresas, trazendo soluções inteligentes com AI.
-
-Se você tem interesse em explorar as possibilidades dos chatbots nesse ecossistema, estou ansioso para trocar conhecimentos e colaborar em projetos que aproveitem ao máximo essa tecnologia.
-
-"Minha missão é desenvolver chatbots que não só automatizem processos, mas também proporcionem experiências imersivas e personalizadas."
--->
+Estou ansioso para trocar conhecimento e colaborar em projetos, caso deseje, entre em contato através das minhas redes acima.
