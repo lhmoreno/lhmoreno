@@ -1,12 +1,33 @@
 # Olá 👋🏻
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-bf9217?style=for-the-badge&logo=google-docs&logoColor=white&color=bf9217)](https://www.linkedin.com/in/lhmoreno/)
-[![Twitter](https://img.shields.io/badge/-Twitter-bf9217?style=for-the-badge&logo=x&logoColor=white&color=bf9217)](https://x.com/lhmorenoti)
+[![Site](https://img.shields.io/static/v1?label=Site&message=lhmoreno.com&color=0a66c2&style=for-the-badge)](https://lhmoreno.com)&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=lhmoreno&color=0a66c2&style=for-the-badge)](https://www.linkedin.com/in/lhmoreno/)&nbsp;&nbsp;&nbsp;
+[![X](https://img.shields.io/static/v1?label=X&message=%40lhmorenoti&color=0a66c2&style=for-the-badge)](https://x.com/lhmorenoti)
 
-Sempre fui apaixonado por tecnologia, o que me levou a aprender lógica de programação com Python. Durante a faculdade, migrei para o ecossistema JavaScript, que hoje é a base da minha stack de desenvolvimento.
 
-Nos últimos anos, atuei como freelancer, desenvolvendo sites e chatbots, adquirindo experiência em integrações entre sistemas e automações (foco maior em backend).
+Desenvolvedor **Full Stack (JavaScript/TypeScript)** com foco em construir produtos web, APIs e integrações. Atuo do backend ao deploy: modelagem de dados, autenticação, webhooks, automações e infraestrutura em containers.
 
-Atualmente, estou focado em me aprimorar como desenvolvedor full stack. Minhas principais tecnologias incluem Next.js, Node.js, PostgreSQL e NestJS.
+## O que você vai encontrar aqui
 
-Estou ansioso para trocar conhecimento e colaborar em projetos, caso deseje, entre em contato através das minhas redes acima.
+- APIs e serviços em Node.js/NestJS (REST, documentação, validação)
+- Aplicações web com Next.js
+- Integrações e automações com mensageria, webhooks e ferramentas de workflow
+- Infra para produção em Docker/Docker Swarm (VPS)
+
+## Stack e ferramentas
+
+**Linguagens:** TypeScript, JavaScript  
+**Web:** Next.js, React  
+**Backend:** Node.js, NestJS (e Fastify quando faz sentido)  
+**APIs:** REST • Swagger/OpenAPI  
+**Banco de dados:** PostgreSQL • (MongoDB quando necessário)  
+**Mensageria:** RabbitMQ  
+**Automação/Operação:** n8n • Metabase • Chatwoot  
+**Infra/Deploy:** Docker • Docker Swarm • VPS (Hetzner/Hostinger)  
+**Testes:** Jest • Supertest  
+**Versionamento:** Git/GitHub
+
+## Projetos em destaque
+
+- **Influenciadores do Agro** — plataforma e ecossistema para influenciadores e negócios do agro  
+  [influenciadoresdoagro.com.br](https://influenciadoresdoagro.com.br)
